@@ -5,7 +5,7 @@ C# Programming Chapter 8
 - [X] Guided - SwapProgram
 - [X] Guided - OverloadedTriples
 - [X] 01 - Reverse4
-- [ ] 02 - IntegerFacts
+- [X] 02 - IntegerFacts
 - [ ] 05 - BonusCalculation
 - [ ] 07 - Averages
 - [ ] 10 - Movie
