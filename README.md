@@ -8,4 +8,4 @@ C# Programming Chapter 8
 - [X] 02 - IntegerFacts
 - [X] 05 - BonusCalculation
 - [ ] 07 - ~~Averages~~
-- [ ] 10 - Movie
+- [X] 10 - Movie
