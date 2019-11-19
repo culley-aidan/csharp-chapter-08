@@ -1,0 +1,15 @@
+
+SwapProgram/.vs/SwapProgram/v16/.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.json
+*.dll
+*.exe
+*.pdb
+*.cache
+SwapProgram/SwapProgram/obj/Debug/netcoreapp3.0/SwapProgram.csproj.FileListAbsolute.txt
+*.props
+*.targets
+SwapProgram/SwapProgram/obj/Debug/netcoreapp3.0/SwapProgram.AssemblyInfo.cs
