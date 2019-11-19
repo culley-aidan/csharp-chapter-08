@@ -4,7 +4,7 @@ C# Programming Chapter 8
 ## TODO
 - [X] Guided - SwapProgram
 - [X] Guided - OverloadedTriples
-- [ ] 01 - Reverse4
+- [X] 01 - Reverse4
 - [ ] 02 - IntegerFacts
 - [ ] 05 - BonusCalculation
 - [ ] 07 - Averages
