@@ -2,7 +2,7 @@
 C# Programming Chapter 8
 
 ## TODO
-- [ ] Guided - SwapProgram
+- [X] Guided - SwapProgram
 - [ ] Guided - OverloadedTriples
 - [ ] 01 - Reverse4
 - [ ] 02 - IntegerFacts
