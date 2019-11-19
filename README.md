@@ -6,6 +6,6 @@ C# Programming Chapter 8
 - [X] Guided - OverloadedTriples
 - [X] 01 - Reverse4
 - [X] 02 - IntegerFacts
-- [ ] 05 - BonusCalculation
+- [X] 05 - BonusCalculation
 - [ ] 07 - Averages
 - [ ] 10 - Movie
